@@ -64,18 +64,5 @@ Kinetic Canvas replaces traditional fitness dashboards with a living world that 
 ### API Integration
 - Strava API
 
-## Getting Started
 
-*(Coming soon - setup instructions will be added as the project develops)*
 
-## Contributing
-
-*(Coming soon - contribution guidelines will be added)*
-
-## License
-
-*(Add your license here)*
-
----
-
-**Note**: This project is currently in development as part of a BSc Creative Computing program.
